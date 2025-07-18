@@ -985,6 +985,7 @@ The Viomi V6 is actually a 3irobotix CRL-200S inside. It is sold as:
 - Viomi Cleaning Robot
 - Viomi V2
 - Viomi V2 Pro
+- Viomi V2 Max
 - V-RVCLM21B
 
 #### Comments
